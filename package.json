@@ -45,7 +45,7 @@
     "vue-compiler": "^0.3.0",
     "vue-dev-server": "^0.2.10",
     "vue-html-loader": "^1.2.3",
-    "vue-loader": "^8.5.3",
+    "vue-loader": "^15.9.6",
     "vue-touch": "^1.1.0",
     "webpack": "^1.13.2"
   },
