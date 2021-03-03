@@ -38,7 +38,7 @@
     "karma-vue-component": "^0.1.0",
     "karma-webpack": "^1.8.0",
     "mocha": "^3.0.2",
-    "pug": "^2.0.0-beta5",
+    "pug": "^3.0.2",
     "script-runner": "^0.1.5",
     "velocity-animate": "^1.2.3",
     "vue": "^1.0.26",
